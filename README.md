@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm Santiago, a student, Web and Software Develope
 [![https://www.linkedin.com/in/santiago-ariel-chaparro/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 #### 🌱 Projects
-- [Web Projects](https://github.com/your_username/projects): A collection of web pages that I made.
-- [React To-Do List](https://github.com/your_username/project2): A simple project using the react template found in the description.
+- [Web Projects](https://github.com/santichapa/projects): A collection of web pages that I made.
+- [React To-Do List](https://github.com/santichapa/react-todo-list): A simple project using the react template found in the description.
 
 #### 📫 Contact
 - Email: santi.chaparro280@gmail.com
