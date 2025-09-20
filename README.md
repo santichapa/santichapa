@@ -25,3 +25,9 @@ Welcome to my GitHub profile! I'm Santiago, a student, Web and Software Develope
 
 #### 📫 Contact
 - Email: santi.chaparro280@gmail.com
+
+#### 📊 Stats
+![San's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santichapa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santichapa&layout=compact&theme=radical)
+
+
