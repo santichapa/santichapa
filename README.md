@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Santiago, a student, Web and Software Develope
 
 
 #### 🔗 Connect with Me
-[(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ariel-chaparro/)
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ariel-chaparro/)
 
 #### 🌱 Projects
 - [Web Projects](https://github.com/santichapa/projects): A collection of web pages that I made.
